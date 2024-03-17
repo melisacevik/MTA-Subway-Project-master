@@ -1,6 +1,6 @@
 <img width="1133" alt="mta" src="https://github.com/melisacevik/MTA-Subway-Project-master/assets/113050206/bb402a94-6307-480e-a38a-30dbc8f47c83">
 
-# MTA Metro Yolcu Analizi
+# New York City MTA Subway Hourly Ridership Data Analysis ✨
 
 ## Proje Hakkında
 
