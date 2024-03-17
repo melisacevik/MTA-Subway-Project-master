@@ -1,4 +1,4 @@
-<img width="1133" alt="mta" src="https://github.com/melisacevik/MTA-Subway-Project-master/assets/113050206/bb402a94-6307-480e-a38a-30dbc8f47c83">
+<img width="1207" alt="Screenshot 2024-03-17 at 21 55 10" src="https://github.com/melisacevik/MTA-Subway-Project-master/assets/113050206/74dea66a-aed3-4b04-9f44-ee9c95ccc6d2">
 
 # New York City MTA Subway Hourly Ridership Data Analysis ✨
 
